@@ -2,6 +2,8 @@
 
 **The ultimate 360° view of your health and environment.** 🚀
 
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK-green?style=for-the-badge&logo=android)](https://github.com/Abdxlrahman/Bio-Sync/releases)
+
 BioSync is a powerful, real-time health intelligence platform that syncs your biological vitals with your physical environment. By bridging your **Galaxy Watch** and a **Raspberry Pi IoT hub**, BioSync uses a custom Random Forest ML model to calculate your **Vitality Index**—giving you a daily score on your readiness to perform! ⚡️
 
 ---
